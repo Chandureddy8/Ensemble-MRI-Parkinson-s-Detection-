@@ -31,3 +31,5 @@ There are several ways to perform ensemble learning, and a reasonable summary is
 
 Bagging: fit independent models and then average their predictions
 Boosting: fit several models sequencially and then average their predictions
+
+comparing best modle among all, ensemble-vgg16-resnet50 have low loss and good accuracy
