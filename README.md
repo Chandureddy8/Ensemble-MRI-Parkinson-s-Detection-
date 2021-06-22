@@ -17,6 +17,7 @@ Images are in t2 weigthed,Axial plane.........
 
 
 # How to Improve Performance By Combining Predictions From Multiple Models
+![alt text](https://github.com/Chandureddy8/Ensemble-MRI-Parkinson-s-Detection-/blob/main/test%20images/1_1ArQEf8OFkxVOckdWi7mSA.png)
 
 A successful approach to reducing the variance of neural network models is to train multiple models instead of a single model and to combine the predictions from these models. This is called ensemble learning and not only reduces the variance of predictions but also can result in predictions that are better than any single model.
 
