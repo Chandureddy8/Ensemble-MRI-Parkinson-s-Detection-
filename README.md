@@ -1,5 +1,5 @@
 # Ensemble-MRI-Parkinson-s-Detection-
-early detection method for parkinson's disease using deep ensemble learning on MRI dataset
+Early detection method for parkinson's disease using deep ensemble learning on MRI dataset
 Parkinson's disease (PD) belongs to a group of conditions called motor system disorders, which cause unintended or uncontrollable movements of the body.  The precise cause of PD is unknown, but some cases are hereditary while others are thought to occur from a combination of genetics and environmental factors that trigger the disease.  In PD, brain cells become damaged or die in the part of the brain that produces dopamine--a chemical needed to produce smooth, purposeful movement.
 
 The four primary symptoms of PD are:
